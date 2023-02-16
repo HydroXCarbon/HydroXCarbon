@@ -27,4 +27,4 @@ I am a student of computer engineering, at the Faculty of engineering at Mahidol
 
 <a href="http://www.github.com/HydroXCarbon"><img src="https://github-readme-stats.vercel.app/api?username=HydroXCarbon&show_icons=true&hide=stars,prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HydroXCarbon's GitHub stats" /></a>
 
-<a href="http://www.github.com/HydroXCarbon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HydroXCarbon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Gra
+<a href="http://www.github.com/HydroXCarbon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HydroXCarbon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
