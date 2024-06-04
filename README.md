@@ -7,7 +7,7 @@ Full Stack Developer Internship
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [here](http://www.canva.com/design/DAFxUR5_9Ro/Hrg7qFWoHreuAeYxEfEGig/edit)
 * ✉️  You can contact me at [purin.pongpanich@gmail.com](mailto:purin.pongpanich@gmail.com)
-* 🧠  I'm learning React, Spring Boot, Docker
+* 🧠  I'm learning Vue.js, Spring Boot, Docker, and more !!
 * ⚡  I like pizza 🍕
 
 ### Skills
