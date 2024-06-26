@@ -8,7 +8,7 @@ Full Stack Developer Internship
 * 🖥️  See my portfolio at [here](http://www.canva.com/design/DAFxUR5_9Ro/Hrg7qFWoHreuAeYxEfEGig/edit)
 * ✉️  You can contact me at [purin.pongpanich@gmail.com](mailto:purin.pongpanich@gmail.com)
 * 🧠  I'm learning Vue.js, Spring Boot, Docker, and more !!
-* ⚡  I like pizza 🍕
+* ⚡  I like curiosity 🍕
 
 ### Skills
 
