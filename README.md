@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Purin pongpanich
 ========================================================================================================================================
 
-Software Engineer Internship
+Software Engineer and Machine learning Engineer Internship
 -------------------------------
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [here](http://www.canva.com/design/DAFxUR5_9Ro/Hrg7qFWoHreuAeYxEfEGig/edit)
+* 🖥️  See my resume at [here](http://www.canva.com/design/DAFxUR5_9Ro/Hrg7qFWoHreuAeYxEfEGig/edit)
 * ✉️  You can contact me at [purin.pongpanich@gmail.com](mailto:purin.pongpanich@gmail.com)
-* 🧠  I'm learning Vue.js, Spring Boot, Docker, and more !!
+* 🧠  I'm learning ML, Quantum Neural Network and more !!
 * ⚡  I like curiosity 🍕
 
 ### Skills
