@@ -43,33 +43,15 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Exploring Quantum Computing framework (Qiskit).</li>
+  <li>Understanding and implementing Generative Adversarial Networks (GANs).</li>
+  <li>Exploring the intersection of AI and Quantum Computing.</li>
+  <li>Enhancing programming proficiency in Python and expanding knowledge to other languages like JavaScript and Java.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
 
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
+<br />
+<br />
+<br />
 <br />
 
 <!--Github stats Table--> 
