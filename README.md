@@ -249,7 +249,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=The%20sun%20shines%20upon%20good%20and%20bad%20alike.&theme=dark&bg_color=2d6a4f&author_color=103022&accent_color=ffff">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=The%20sun%20shines%20upon%20good%20and%20bad%20alike.&theme=dark&bg_color=103022&author_color=ffff&accent_color=ffff">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
