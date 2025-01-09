@@ -406,7 +406,7 @@
 <img src="./instagram.png" width=50 height=50 alt="purix_pnn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/HydroXCarbon" target="_blank">
+<a href="https://github.com/HydroXCarbon" target="_blank">
 <img src="./github.png" width=50 height=50 alt="HydroXCarbon" style="margin-bottom: 5px;" />
 </a>
 
