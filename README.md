@@ -63,7 +63,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/HydroXCarbon">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=HydroXCarbon&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,269e69&title_color=103022&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=HydroXCarbon&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,103022&title_color=ffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -81,7 +81,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/HydroXCarbon/HybridQuantumGAN">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=HydroXCarbon&repo=HybridQuantumGAN&theme=nightowl&show_owner=true&bg_color=0,000000,103022&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=HydroXCarbon&repo=HybridQuantumGAN&theme=nightowl&show_owner=true&bg_color=0,000000,103022&title_color=ffff&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -89,7 +89,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/HydroXCarbon">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=HydroXCarbon&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,103022&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=HydroXCarbon&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,103022&title_color=ffff&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -249,7 +249,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=The%20sun%20shines%20upon%20good%20and%20bad%20alike.&theme=dark&bg_color=2d6a4f&author_color=103022&accent_color=1a7a50">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Hans%20Christian%20Andersen&quote=The%20sun%20shines%20upon%20good%20and%20bad%20alike.&theme=dark&bg_color=2d6a4f&author_color=103022&accent_color=ffff">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
