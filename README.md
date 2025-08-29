@@ -17,7 +17,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🌍 I'm based in Bangkok
-- 🖥️ See my resume at [here](http://www.canva.com/design/DAFxUR5_9Ro/Hrg7qFWoHreuAeYxEfEGig/edit)
+- 🖥️ See my CV at [here](https://www.canva.com/design/DAF23eUjIsM/lJE7rK19v8lN7u6j5-Q6jw/edit)
 - ✉️ You can contact me at [purin.pongpanich@gmail.com](mailto:purin.pongpanich@gmail.com)
 - 🧠 I'm learning ML, Quantum Neural Network and more !!
 - ⚡ I like curiosity 🍕
